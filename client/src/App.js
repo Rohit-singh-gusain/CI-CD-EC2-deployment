@@ -79,7 +79,7 @@ function App() {
     <div className="app">
       <div className="container">
         <header className="header">
-          <h1>✨ My Todo List</h1>
+          <h1> Personal TODO list</h1>
           <p className="subtitle">Keep track of your tasks</p>
         </header>
 
